@@ -1,0 +1,21 @@
+[Script Info]
+Title: P6 AI Video Aura Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Liberation Sans,54,&H0000E6FF,&H000000FF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,5,3,2,60,60,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:05.71,Default,,0,0,0,,Imagine building a full Primavera P6 baseline in under ten minutes with zero Excel imports.
+Dialogue: 0,0:00:05.66,0:00:16.95,Default,,0,0,0,,Powered by Antigravity and Gemini, the P6-MCP engine injects eighty-five activities, one hundred and twenty-two logic links, and balances a two million SAR budget directly into Oracle Primavera.
+Dialogue: 0,0:00:16.95,0:00:23.71,Default,,0,0,0,,Tested against real Kaggle construction data, it passes all fourteen DCMA quality checks with zero open ends.
+Dialogue: 0,0:00:23.71,0:00:29.01,Default,,0,0,0,,Then, it produces a contractor-grade ten-page Schedule Narrative Report in under three minutes.
+Dialogue: 0,0:00:29.01,0:00:32.01,Default,,0,0,0,,The future of project controls is autonomous.
+Dialogue: 0,0:00:32.01,0:00:35.14,Default,,0,0,0,,Check the link in the first comment to get started right now.

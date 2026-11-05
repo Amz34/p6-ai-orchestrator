@@ -1,0 +1,13 @@
+file '/home/ubuntu/projects/p6-ai-orchestrator/output/video_assets/scene_01.jpg'
+duration 5.864
+file '/home/ubuntu/projects/p6-ai-orchestrator/output/video_assets/scene_02.jpg'
+duration 5.864
+file '/home/ubuntu/projects/p6-ai-orchestrator/output/video_assets/scene_03.jpg'
+duration 5.864
+file '/home/ubuntu/projects/p6-ai-orchestrator/output/video_assets/scene_04.jpg'
+duration 5.864
+file '/home/ubuntu/projects/p6-ai-orchestrator/output/video_assets/scene_05.jpg'
+duration 5.864
+file '/home/ubuntu/projects/p6-ai-orchestrator/output/video_assets/scene_06.jpg'
+duration 5.864
+file '/home/ubuntu/projects/p6-ai-orchestrator/output/video_assets/scene_06.jpg'

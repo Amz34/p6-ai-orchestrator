@@ -1,0 +1,35 @@
+{
+  "timestamp": 1793910870.0,
+  "campaign": "Autonomous Primavera P6 AI Baseline Automation",
+  "linkedin": {
+    "status": 201,
+    "post_urn": "urn:li:ugcPost:7524206574513524736",
+    "video_urn": "urn:li:video:D4D10AQEx4GjDKibq4g",
+    "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7524206574513524736",
+    "first_comment": {
+      "status": 201,
+      "id": "7524206578191712256",
+      "urn": "urn:li:comment:(urn:li:ugcPost:7524206574513524736,7524206578191712256)",
+      "text": "Direct Architecture PDF & Open Engine Links:\n📄 Download the SDLC Specification PDF: https://amz34.github.io/assets/P6_AI_Orchestrator_SDLC_Specification.pdf\n⚡ Engine Repository: https://github.com/shamshirialireza/P6-MCP\n📦 Kaggle Construction Benchmark: https://www.kaggle.com/datasets/mohamedelkenawy/primavera-p6-dashboard-dataset"
+    }
+  },
+  "bluesky": {
+    "ok": true,
+    "provider_id": "at://did:plc:bnk5pbpyzm33qrrtr44dnocu/app.bsky.feed.post/3mzlppzslbp2p",
+    "url": "https://bsky.app/profile/amz34.bsky.social/post/3mzlppzslbp2p",
+    "handle": "amz34.bsky.social"
+  },
+  "x": {
+    "ok": false,
+    "status": "PAUSED_CREDITS_DEPLETED",
+    "reason": "X API credits depleted (HTTP 402), logged in lane_config.json"
+  },
+  "pdf_deliverable": "https://amz34.github.io/assets/P6_AI_Orchestrator_SDLC_Specification.pdf",
+  "autoresponder": {
+    "active": true,
+    "registry_entry": "7524206574513524736",
+    "cron_schedule": "*/3 * * * * (Universal Watcher)",
+    "responder_script": "/home/ubuntu/clients/invertio/email-pitch/linkedin/comment-engag/watch_universal_linkedin_comments.py",
+    "telegram_notify": "@AzGem_Bot (chat_id: 8843884232)"
+  }
+}
